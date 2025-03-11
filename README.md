@@ -1,4 +1,4 @@
-<h1 align="center">HI👋🏻 I'm Ichhita!</h1>
+<h1 align="center">Hi👋🏻 I'm Ichhita!</h1>
 <img align="right" alt="coding" src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif " >
 # 💫 About Me:
 An adaptable and curious person with excellent communication skills and a proactive attitude toward learning. Skilled in C++, <br>Python with hands-on experience in web development.
