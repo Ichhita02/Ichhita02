@@ -3,9 +3,8 @@
 <p align="right">
   <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="350" alt="Coding GIF">
 </p>
-
 💫 About Me:
-An adaptable and curious person with excellent communication skills and a proactive attitude toward learning. Skilled in C++, Python with hands-on experience in web development.
+<span>An adaptable and curious person with excellent communication skills and a proactive attitude toward learning. Skilled in C++, Python with hands-on experience in web development.</span>
 
 
 ## 🌐 Socials:
