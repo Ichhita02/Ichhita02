@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋🏻 I'm Ichhita!</h1>
 
 <p align="right">
-  <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="250px">
+  <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="350" alt="Coding GIF">
 </p>
 
 # 💫 About Me:
-An adaptable and curious person with excellent communication skills and a proactive attitude toward learning.  
-Skilled in C++, Python with hands-on experience in web development.
+An adaptable and curious person with excellent communication skills and a proactive attitude toward learning. Skilled in C++, Python with hands-on experience in web development.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichhita-shukla-6a5112228/)  
