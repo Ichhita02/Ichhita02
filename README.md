@@ -1,10 +1,16 @@
-<h1 align="center">Hi👋🏻 I'm Ichhita!</h1>
-
-<p align="right">
-  <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="350" alt="Coding GIF">
-</p>
-💫 About Me:
-<span>An adaptable and curious person with excellent communication skills and a proactive attitude toward learning. Skilled in C++, Python with hands-on experience in web development.</span>
+<table>
+  <tr>
+    <td>
+      <h2>👋 Hi, I'm ✨ 𝓘𝓬𝓱𝓱𝓲𝓽𝓪 !</h2>
+      <p>💫 About Me:</p>
+      <p>🔄 An adaptable and curious person with excellent communication skills and a proactive attitude toward learning.</p>
+      <p>💻 Skilled in C++, Python with hands-on experience in web development.</p>
+    </td>
+    <td>
+      <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" width="350" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
