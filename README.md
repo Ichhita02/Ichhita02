@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h2>👋 Hi, I'm ✨ 𝓘𝓬𝓱𝓱𝓲𝓽𝓪 !</h2>
+      <h2>👋 Hi, I'm Ichhita !</h2>
       <p>💫 About Me:</p>
       <p>🔄 An adaptable and curious person with excellent communication skills and a proactive attitude toward learning.</p>
       <p>💻 Skilled in C++, Python with hands-on experience in web development.</p>
